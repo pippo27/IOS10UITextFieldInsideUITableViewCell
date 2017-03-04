@@ -29,7 +29,7 @@ class TopicTableViewCell: UITableViewCell {
         super.awakeFromNib()
         containerView.layer.cornerRadius = 5.0
         containerView.clipsToBounds = true
-        bgHeaderView.round([.bottomLeft, .topLeft], radius: 5.0)
+        bgHeaderView.round([.topLeft, .topRight], radius: 5.0)
         
         backgroundColor = UIColor.clear
         contentView.backgroundColor = UIColor.clear
