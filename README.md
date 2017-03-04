@@ -6,4 +6,4 @@
 
 # Screenshot
 ### Picture 1 ###
-![alt text](https://github.com/pippo27/IOS10UITextFieldInsideUITableViewCell/blob/master/Screenshot/Simulator%20Screen%20Shot%20Mar%204%2C%202017%2C%2022.23.38.png width=200 "Screenshot")
+![alt text](https://github.com/pippo27/IOS10UITextFieldInsideUITableViewCell/blob/master/Screenshot/Simulator%20Screen%20Shot%20Mar%204%2C%202017%2C%2022.23.38.png "Screenshot")
